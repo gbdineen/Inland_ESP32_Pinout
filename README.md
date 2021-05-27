@@ -7,6 +7,6 @@ GitHub user [@natedogg2020](https://github.com/natedogg2020) did an amazing soli
 [Get the PDF](docs/INLAND-ESP32-PINOUT-052721.pdf)
 
 ### Inland ESP32 Dev Board Pinmap JPG
-[Get the JPB](docs/INLAND-ESP32-PINOUT-052721.jpg)
+[Get the JPG](docs/INLAND-ESP32-PINOUT-052721.jpg)
 
 ![JPG of the Inland ESP32 Dev Board Pinmap](docs/INLAND-ESP32-PINOUT-052721.jpg)
